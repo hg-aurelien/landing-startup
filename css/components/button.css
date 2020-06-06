@@ -1,0 +1,12 @@
+.btn-grey {
+	background-color: rgb(110, 110, 110);
+	color: rgba(60, 180, 235, 0.9);
+	padding: 15px 20px;
+	border-radius: 8px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+.btn-grey:hover {
+	background-color: rgba(110, 110, 110, 0.75);
+	color: rgba(60, 180, 235, 0.9);
+}
